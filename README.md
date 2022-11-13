@@ -87,19 +87,39 @@ Teams are meant to pull all the best resources you have and assign them to a cer
 <p>
 <img src="https://i.imgur.com/dEYEVaC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<img src="https://i.imgur.com/IIzQQlM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>
+<img src="https://i.imgur.com/BQUbL8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Creating Agents Navigate to Admin Panel, Agents, Add New. 
 </p>
 <br />
 
 
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vHYBxHf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/dA5RGSI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://i.imgur.com/enyMlC8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+Users can be added from the Agent Panel, Add New User will create your profile of the user in the user directory.
 </p>
 <br />
 
-
+<p>
+<img src="https://i.imgur.com/LDACbOk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/5i4brWf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://i.imgur.com/XhbJ7Xu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://i.imgur.com/HNBkgzx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+SLA'S Can be configured from Admin Panel, Manage, SLA. 
+</p>
+<br />
